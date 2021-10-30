@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526698968612",
+    "project_id": "seddi-89190",
+    "storage_bucket": "seddi-89190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526698968612:android:edc0780dcc6c03832d4ab1",
+        "android_client_info": {
+          "package_name": "com.example.seddi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526698968612-ckt5d393i1fcrpd8bm9c8giljn67mbdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-WTsKDvfKiFqZr96KWmGcM83YP1SXs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526698968612-ckt5d393i1fcrpd8bm9c8giljn67mbdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
